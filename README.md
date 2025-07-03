@@ -37,14 +37,14 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosCaychoCasas&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="CarlosCaychoCasas" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusSanchezMiranda&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="JesusSanchezMiranda" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarlosCaychoCasas&show_icons=true&locale=en&theme=chartreuse-dark" alt="CarlosCaychoCasas" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JesusSanchezMiranda&show_icons=true&locale=en&theme=chartreuse-dark" alt="JesusSanchezMiranda" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=CarlosCaychoCasas&custom_title=Actividad%20de%20Carlos%20Caycho&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=JesusSanchezMiranda&custom_title=Actividad%20de%20Carlos%20Caycho&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 
