@@ -51,12 +51,12 @@
 ## 😎 Conéctate conmigo
 <p align="left">
   
-<a href="https://www.youtube.com/@CarlosAlejandroCaychoCasas" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="carlos.caycho.casas@vallegrande.edu.pe" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://github.com/CarlosCaychoCasas" target="blank"> <img align="center" alt="GitHub" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCVTWTBljgT_x3p-UUYdxxug" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="jesus.sanchez.miranda@vallegrande.edu.pe" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://github.com/JesusSanchezMiranda" target="blank"> <img align="center" alt="GitHub" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 
 
 <br>
 
-Créditos: [Carlos Caycho](https://github.com/CarlosCaychoCasas) Última edición el 12/03/2025
+Créditos: [Jesús Sánchez](https://github.com/JesusSanchezMiranda) Última edición el 12/03/2025
